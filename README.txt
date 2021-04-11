@@ -1,0 +1,1 @@
+Super simple dice roller for Discord.
